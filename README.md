@@ -56,7 +56,6 @@ Pydantic
 
 python-dotenv
 
-(See requirements.txt for full list.)
 
 📖 Learnings
 
